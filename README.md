@@ -2,7 +2,7 @@
 ![headshot](https://github.com/ldfoskey1023/HelloWorld/blob/main/s2-brown%20maltese%20shih%20tzu.jpg)
 
 # HelloWorld
-This is my first repository! This pull request is to add som descriptions and a headshot to my README.
+This is my first repository! This pull request is to add some descriptions and a headshot to my README.
 
 # A little insight into me
 Hi Everyone! My name is Peanut and I am the owner of this branch. This README will give you a bit of information about me!
