@@ -1,4 +1,4 @@
-![headshot](https://github.com/ldfoskey1023/HelloWorld/blob/main/s2-brown-maltese-shih-tzu.jpg)
+![headshot](https://github.com/ldfoskey1023/helloworld/blob/main/s2-brown-maltese-shih-tzu.jpg)
 
 # HelloWorld
 This is my first repository! This pull request is to add some descriptions and a headshot to my README.
