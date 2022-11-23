@@ -1,5 +1,5 @@
 ---
-layout:default
+theme: minimal
 ---
 
 ![headshot](https://github.com/ldfoskey1023/HelloWorld/blob/main/s2-brown%20maltese%20shih%20tzu.jpg)
